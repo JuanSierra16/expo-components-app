@@ -20,7 +20,7 @@ const ComponentsApp = () => {
         />
       ))}
 
-      <Text className="my-5"></Text>
+      <Text></Text>
 
       {uiMenuRoutes.map((route, index) => (
         <MenuItem
@@ -33,7 +33,7 @@ const ComponentsApp = () => {
         />
       ))}
 
-      <Text className="my-5"></Text>
+      <Text></Text>
 
       {menuRoutes.map((route, index) => (
         <MenuItem
